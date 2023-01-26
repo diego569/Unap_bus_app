@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584886205647",
+    "project_id": "ticket-bus-unap-97686",
+    "storage_bucket": "ticket-bus-unap-97686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584886205647:android:4677169c3e9046a06dcbba",
+        "android_client_info": {
+          "package_name": "com.example.bus_ticket_unap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584886205647-4pb38qo8077femu2ntrajbub34hkqcii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1zuoSsu28zLa-uxcIdyS_etG-5ew6QZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584886205647-4pb38qo8077femu2ntrajbub34hkqcii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
